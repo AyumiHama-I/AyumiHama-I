@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">Learning fullstack development 📚 </h3>
+<h1 align="center">Hi 👋, I'm Ayumi Hama</h1>
+<h3 align="center">Learning fullstack development 📚</h3>
 
 <br>
 
