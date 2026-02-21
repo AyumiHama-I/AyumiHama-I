@@ -25,5 +25,4 @@
 
 ## 🌱 Currently Learning:
 
-- AWS（SAA取得を目指し勉強中）
-- CI/CD（GitHub Actions）
+- Product Management & DX Strategy 📋
